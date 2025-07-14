@@ -1,0 +1,25 @@
+.ai-chatbot-input-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 30vh;
+}
+.ai-chatbot-input {
+  width: 30vw;
+  height: 5vh;
+  margin-right: 1vw;
+}
+
+.ai-chatbot-message, .user {
+  justify-content: center;
+  margin: 1vw;
+  font-family: "Regular";
+}
+.ai-chatbot-message, .assistant {
+  justify-content: center;
+  margin: 1vw;
+}
+
+b{
+      font-family: "Bold";
+
+}

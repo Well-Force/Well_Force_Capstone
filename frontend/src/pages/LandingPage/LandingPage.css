@@ -252,13 +252,13 @@ body,
     text-align: center;
     margin-bottom: 5vh;
   }
-  .ruth-container{
-        width: 12vw;
-        left:38%;
+  .ruth-container {
+    width: 12vw;
+    left: 38%;
   }
   .appy-container {
     left: 53%;
-        width: 11vw;
+    width: 11vw;
   }
   .einstein-container {
     left: 64%;
@@ -267,7 +267,7 @@ body,
   }
   .astro-gif-container {
     bottom: 140%;
-        width: 11vw;
+    width: 11vw;
   }
   .codey-gif-container {
     width: 60vw;
@@ -281,5 +281,31 @@ body,
     justify-content: center;
     align-items: center;
     padding: 1vw;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .above-footer-animation2 {
+    height: 700%;
+  }
+
+  .ruth-container{
+    width:8.5vw;
+    left:39%; 
+  }
+
+  .appy-container{
+    width: 9vw;
+    left:52%; 
+  }
+
+  .einstein-container{
+      bottom: 300%;
+      left:65%; 
+
+  }
+  .astro-gif-container{
+    bottom: 190%;
+    left:73%
   }
 }
