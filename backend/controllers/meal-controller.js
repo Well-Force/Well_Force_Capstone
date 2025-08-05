@@ -63,7 +63,7 @@ const logMeal = async (req, res) => {
 
     const internalUserId = user.id;
 
-    const meal = await prisma.meals.findUnique({ where: { id: parsedMealId } });
+    const meal = await prisma.Meals.findUnique({ where: { id: parsedMealId } });
     if (!meal) return res.status(404).json({ error: "Meal not found" });
 
     const existingLog = await prisma.mealLog.findUnique({

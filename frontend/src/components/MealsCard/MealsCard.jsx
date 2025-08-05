@@ -8,6 +8,7 @@ import { useAuth, useUser } from "@clerk/clerk-react";
 import axios from "axios";
 
 const baseUrl = import.meta.env.VITE_PUBLIC_API_BASE_URL;
+console.log("baseurl:", baseUrl); 
 
 export default function MealCard({
   meal,
@@ -33,7 +34,9 @@ export default function MealCard({
         const today = new Date(now.getFullYear(), now.getMonth(), now.getDate())
           .toISOString()
           .split("T")[0];
-
+        
+        
+console.log("baseurl:", baseUrl); 
         const res = await axios.get(`${baseUrl}/api/meals/log/count`, {
           params: { userId, mealId: meal.id, date: today },
           headers: { Authorization: `Bearer ${token}` },
