@@ -143,6 +143,7 @@ console.log("baseurl:", baseUrl);
           <span className="label">Restaurant:</span>{" "}
           <span className="restaurant-name">{meal.restaurant_name}</span>
         </p>
+
         {/* <Notification /> */}
 
         <a
