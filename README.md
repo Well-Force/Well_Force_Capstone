@@ -23,20 +23,19 @@ Deployment Website: Wellforce.site
 ## Screenshots
 
 Profile Set up Page
-<img width="1115" height="528" alt="image" src="https://github.com/user-attachments/assets/26be139d-720b-4776-97ed-877ab4e43a7e" />
+<img width="1429" height="689" alt="image" src="https://github.com/user-attachments/assets/d3dde4e0-4a35-465b-b624-caa6cd11f891" />
 
 Landing Page
-<img width="1116" height="572" alt="image" src="https://github.com/user-attachments/assets/7be575b8-f461-4e9c-b274-18bbfb0f88c6" />
+<img width="1433" height="741" alt="image" src="https://github.com/user-attachments/assets/b31ae5a2-fb1f-4873-9340-fdd66896d8db" />
 
 Meals and Snacks Page (Snacks)
-<img width="1120" height="577" alt="image" src="https://github.com/user-attachments/assets/f01d2c59-dd44-4257-a9b4-42ee6371e076" />
+<img width="1440" height="605" alt="image" src="https://github.com/user-attachments/assets/a3d942bc-0782-4fcc-aead-4fb67c039c6c" />
 
 Meals and Snacks Page (Meals)
-<img width="1116" height="572" alt="image" src="https://github.com/user-attachments/assets/f76409ac-1f4b-4e3f-9b9f-e8f2eae5dfa5" />
+<img width="1426" height="603" alt="image" src="https://github.com/user-attachments/assets/d9bcb900-a60c-47df-92ee-addd12d85773" />
 
 Picnic Delivery Service Integration
-<img width="1113" height="573" alt="image" src="https://github.com/user-attachments/assets/c41c8de4-25da-4ab9-8467-c118f0638875" />
+<img width="998" height="700" alt="image" src="https://github.com/user-attachments/assets/3a3f6b53-ef49-4fb4-92e8-19082be38f65" />
 
 AI Chatbot to Recommend Meals to Users
-<img width="1114" height="576" alt="image" src="https://github.com/user-attachments/assets/41290443-4cba-4bec-9aba-7aedea07a95e" />
-
+<img width="1436" height="745" alt="image" src="https://github.com/user-attachments/assets/3d7e0bd1-d02f-4fa1-ad6e-05a55e49cf58" />
