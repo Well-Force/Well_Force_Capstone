@@ -14,7 +14,7 @@ Mentors Names: Christina Boekeloo & Michael Martak
 
 A full-stack web application featuring an AI-powered chatbot using OpenAI API that provides 
 personalized meal and snack recommendations based on dietary preferences and restrictions, with integrated 
-Picnic delivery for Salesforce employees.
+Picnic delivery for Salesforce employees based in San Francisco.
 
 Tech Stack: PostgreSQL, Express.js, React, Node.js, Render, and Clerk
 
